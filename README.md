@@ -33,24 +33,6 @@ Focus on immersion, intuitive controls, and game feel.
 
 ---
 
-### Research Project (TER) – Dissociation in VR
-Research project exploring **body ownership and dissociation effects in virtual reality**.
-
-Objective:
-- study how different environments influence **attention and engagement** in a learning context  
-
-Approach:
-- design of a VR experimental protocol comparing:
-  - a one-on-one learning situation  
-  - a virtual classroom with AI-driven agents simulating students  
-
-Work includes:
-- literature review on multisensory integration and VR  
-- experimental design and implementation in Unity  
-- exploration of presence, attention, and cognitive load  
-
----
-
 ### Interactive 2D Polygon Editor
 Interactive application written in **C and OpenGL** allowing users to create and edit polygons and fill them using the **scan-line algorithm**.
 
