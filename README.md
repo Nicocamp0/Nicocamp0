@@ -1,4 +1,4 @@
-# Hi !! I'm Nicolas Ventadoux ​🙋​​
+# Hi !! I'm Nicolas Ventadoux 🙋
 
 🎓 Master's student in **Image & 3D** at the **University of Strasbourg**
 
@@ -6,19 +6,50 @@ I am interested in **real-time graphics**, **interactive applications**, and **V
 
 ---
 
-## 📖​ Skills & Technologies
+## 📖 Skills & Technologies
 
 - **Languages**: C, C++, Java, Python, C#
 - **Engines / Frameworks**: Unity, LibGDX
 - **Graphics**: OpenGL, shaders, textures, rendering pipeline, real-time rendering
 - **Tools**: Git, GitHub
 - **Systems & Performance**: Parallel computing (OpenMP, MPI), compilation
-- **Machine Learning**: PyTorch, deep learning
-
+- **Machine Learning**: PyTorch
 
 ---
 
 ## 🧑‍💻 Projects
+
+### Seagull VR Simulator
+Virtual reality experience developed with **Unity (C#)** for the **Meta Quest 3**, where the player embodies a seagull flying above an island.
+
+Features:
+- custom flight system based on head and controller movements  
+- dynamic speed management with dash and dive mechanics  
+- procedural fish spawning system with environment constraints  
+- VR interaction using XR Interaction Toolkit  
+- score system and game state management  
+
+Focus on immersion, intuitive controls, and game feel.
+
+---
+
+### Research Project (TER) – Dissociation in VR
+Research project exploring **body ownership and dissociation effects in virtual reality**.
+
+Objective:
+- study how different environments influence **attention and engagement** in a learning context  
+
+Approach:
+- design of a VR experimental protocol comparing:
+  - a one-on-one learning situation  
+  - a virtual classroom with AI-driven agents simulating students  
+
+Work includes:
+- literature review on multisensory integration and VR  
+- experimental design and implementation in Unity  
+- exploration of presence, attention, and cognitive load  
+
+---
 
 ### Interactive 2D Polygon Editor
 Interactive application written in **C and OpenGL** allowing users to create and edit polygons and fill them using the **scan-line algorithm**.
@@ -79,10 +110,9 @@ Deep learning project for **classification of FIB/SEM microscopy images** using:
 
 Framework: **PyTorch**
 
-
 ---
 
-## 📲​ Contact
+## 📲 Contact
 
-- GitHub: https://github.com/nicocamp0
+- GitHub: https://github.com/nicocamp0  
 - LinkedIn: https://www.linkedin.com/in/nicolas-ventadoux
