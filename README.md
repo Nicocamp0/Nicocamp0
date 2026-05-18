@@ -119,6 +119,7 @@ Projects:
 
 ### Forest Fire Simulation
 2D cellular automata simulation of forest fire propagation using Python and Tkinter.
+
 ---
 
 ## 📲 Contact
